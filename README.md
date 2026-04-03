@@ -1,4 +1,10 @@
-# Numia
+<p align="center">
+  <img src="https://i.imgur.com/otj5yJ2.png"  width="100%" />
+</p>
+
+<br/>
+
+# Numia - The Language Layer of the Internet 
 
 Numia is a language-first system.
 
@@ -49,3 +55,8 @@ Telegram: https://t.me/N5m31
 
 Meaning precedes value.  
 M21n3ng pr2c2d2s v1l52.
+
+
+
+# Numia
+
